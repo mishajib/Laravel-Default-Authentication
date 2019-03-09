@@ -7,9 +7,11 @@ This is a Simple and basic laravel project. You can Create Login and Register op
 <h2>First Create an Fresh Laravel Project.</h2>
 
 <h4>Just run this command into the terminal and reload your project into browser and see the magic.</h4>
-```bash
-php artisan make:auth
-```
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item active" aria-current="page">php artisan make:auth</li>
+  </ol>
+</nav>
 
 <h4>Before this you must Create one Database and migrate default tables into the Database.</h4>
 <h4>For Migrating Tables . Run this command</h4>
